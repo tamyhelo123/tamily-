@@ -31,3 +31,8 @@ criaCartao(
     'num bairro distante da cidade?',
     'fica há aproxidamente A 15KM de distancia ate lá.'
 )
+criaCartao(
+    'qual pais petendo ir',
+    'ir para gramado ?',
+    'ou para paris.'
+)
