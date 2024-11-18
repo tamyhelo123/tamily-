@@ -1,33 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'minhas adverso',
+    'quantos ano eu tenho?',
+    '15 '
 )
 
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
+    'o que eu gosto de fazer ao tempo livre',
+    'pescar,durmi,sair ',
+    'adoro.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é CSS?',
-    'O CSS é uma lingugem de estilização!'
+    'onde que moro',
+    'cidade de Pinhão-PR',
+    'num bairro afastado de cidade!'
 )
 
 criaCartao(
-    'Programação',
-    'O que é HTML?',
-    'O HTML é uma lingugem de estruturação e semântica do conteúdo.'
+    'quem mora em mimha casa',
+    'mora 5 pessoas',
+    'minha maẽ,minha vó, meu irmão e o meu padrasto.'
 )
 criaCartao(
-    'Programação',
-    'O que é VSCode?',
-    'O Visual Studio Code é um editor de código com diversas integrações.s'
+    'tem animal de estimação ',
+    'sim',
+    'tres.s'
 )
 criaCartao(
-    'Programação',
-    'O que é GitHub?',
-    'O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem.'
+    'qual bairro eu moro',
+    'num bairro distante da cidade?',
+    'fica há aproxidamente A 15KM de distancia ate lá.'
 )
